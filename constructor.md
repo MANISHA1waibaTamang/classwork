@@ -1,5 +1,4 @@
 Area of rectangle using constructor overloading.
-```cpp
     #include<iostream>
 using namespace std;
 class Rect{
@@ -32,4 +31,4 @@ int main()
     r3.display();
     return 0;
 }
-```
+
